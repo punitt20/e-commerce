@@ -1,2 +1,2 @@
 # e-commerce
-Basic 
+Basic e-commerce website
